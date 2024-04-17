@@ -22,7 +22,7 @@
     "chai": "^4.3.3",
     "elm-live": "^4.0.2",
     "elm-optimize-level-2": "^0.1.5",
-    "elm-review": "^2.4.4",
+    "elm-review": "^2.11.1",
     "elm-test": "^0.19.1-revision6",
     "elm-tooling": "^1.2.0",
     "mocha": "^8.3.1",
